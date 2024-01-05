@@ -2,7 +2,7 @@ repo_name: 2lambda123/python-yr
 report_id: 32a0175eaf515ae56143f120cf49ecdc
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:41+00:00'
+timestamp: '2024-01-05T08:14:17+00:00'
 requested_by: wckd
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/python-yr
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/python-yr
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/python-yr/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Alexander Hansen
   last_updated_on: 2013-07-03 07:50:04.000000000 Z
@@ -47,6 +50,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/2lambda123/python-yr/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Alexander Hansen
   last_updated_on: 2014-02-08 19:56:34.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/2lambda123/python-yr/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Alexander Hansen
   last_updated_on: 2014-02-08 19:56:34.000000000 Z
@@ -71,6 +76,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19902/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/2lambda123/python-yr/blob/master/setup.py
   detection_source: setup.py
   last_updated_by: Alexander Hansen
   last_updated_on: 2014-02-08 19:56:34.000000000 Z
